@@ -8,4 +8,6 @@ rm -rf  spec
 
 mv collection-operation/spec ./
 
+npm i
+
 npm test
