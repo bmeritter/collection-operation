@@ -8,5 +8,5 @@
 
 3. 例如：当传入 `[1, 2, 3, 4, 5,]`， 则函数应该返回 `[2, 4]` 
 
-#视频
+# 视频
 <embed src='http://player.youku.com/player.php/sid/XMjUzNDIyNjM3Ng==/v.swf' allowFullScreen='true' quality='high' width='480' height='400' align='middle' allowScriptAccess='always' type='application/x-shockwave-flash'></embed>
